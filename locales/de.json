@@ -1,0 +1,119 @@
+{
+	"navbar": {
+		"features": "Funktionen",
+		"howItWorks": "Wie es funktioniert",
+		"integration": "Integration",
+		"login": "Anmelden",
+		"getStarted": "Loslegen"
+	},
+	"hero": {
+		"badge": "Support-Engine der nächsten Generation",
+		"title_start": "Support, der sich",
+		"title_highlight": "wie Magie anfühlt",
+		"description": "Stärken Sie Ihr Team mit einer KI, die lernt, sich anpasst und löst. Verwandeln Sie jede Support-Interaktion in einen Moment der Freude.",
+		"cta_primary": "Kostenlos testen",
+		"cta_secondary": "Demo ansehen"
+	},
+	"features": {
+		"header_title_start": "Alles, was Sie brauchen,",
+		"header_title_highlight": "Nichts, was Sie nicht brauchen.",
+		"header_desc": "Wir haben die Komplexität beseitigt, um uns auf das zu konzentrieren, was wirklich zählt: die Probleme Ihrer Kunden schneller zu lösen.",
+		"ai": {
+			"title": "KI-gestützte Antworten",
+			"description": "Beantworten Sie sofort 80% der Kundenanfragen ohne menschliches Eingreifen.",
+			"details": [
+				"Semantische Suche in Ihrer Wissensdatenbank",
+				"Verständnis natürlicher Sprache",
+				"Nahtlose Eskalation an menschliche Agenten",
+				"Mehrsprachiger Support sofort einsatzbereit"
+			]
+		},
+		"login": {
+			"title": "Kundenidentität",
+			"description": "Sichere, isolierte Umgebungen für jeden Ihrer Kunden.",
+			"details": [
+				"Single Sign-On (SSO) Integration",
+				"Persistenter Chat-Verlauf pro Benutzer",
+				"Sichere Datenisolierung",
+				"Benutzerdefinierte Benutzerattribute & Metadaten"
+			]
+		},
+		"backoffice": {
+			"title": "Admin-Dashboard",
+			"description": "Eine leistungsstarke Kommandozentrale zur Verwaltung Ihrer Support-Operationen.",
+			"details": ["Echtzeit-Analysen & Berichte", "Agenten-Leistungskennzahlen", "Konversations-Tagging & Filterung", "Anpassbare Widget-Einstellungen"]
+		}
+	},
+	"backoffice": {
+		"badge": "Leistungsstarkes Kontrollpanel",
+		"title": "Vollständige Kontrolle über Ihr Support-Ökosystem",
+		"description": "Geben Sie Ihren Kunden die Macht, ihre eigene Support-Erfahrung zu verwalten. Unser umfassendes Backoffice ermöglicht vollständige Anpassung, Analysen und Teammanagement.",
+		"items": {
+			"customization": {
+				"title": "Widget-Anpassung",
+				"description": "Passen Sie Farben, Position und Verhalten an jede Markenidentität an."
+			},
+			"analytics": {
+				"title": "Erweiterte Analysen",
+				"description": "Verfolgen Sie Antwortzeiten, KI-Lösungsraten und Kundenzufriedenheitswerte."
+			},
+			"team": {
+				"title": "Teammanagement",
+				"description": "Verwalten Sie Agenten-Rollen, Berechtigungen und sehen Sie individuelle Leistungskennzahlen."
+			}
+		}
+	},
+	"howItWorks": {
+		"title": "Wie es funktioniert",
+		"description": "Ein nahtloser Ablauf von der Frage bis zur Lösung.",
+		"steps": [
+			{
+				"title": "Benutzer stellt eine Frage",
+				"description": "Ihr Kunde tippt eine Frage in das Chat-Widget auf Ihrer Website."
+			},
+			{
+				"title": "KI durchsucht Wissensdatenbank",
+				"description": "Unsere KI analysiert sofort die Absicht und sucht nach einer passenden Antwort in Ihren FAQs."
+			},
+			{
+				"title": "Sofortige Antwort oder Eskalation",
+				"description": "Wenn gefunden, wird die Antwort sofort geliefert. Wenn nicht, wird ein menschlicher Agent benachrichtigt."
+			},
+			{
+				"title": "Wissenskreislauf",
+				"description": "Agenten beantworten neue Fragen und fügen sie mit einem Klick den FAQs für das nächste Mal hinzu."
+			}
+		]
+	},
+	"integration": {
+		"title": "Bereit in Minuten, nicht Tagen",
+		"description": "Die Implementierung unseres Widgets ist so einfach wie das Kopieren und Einfügen einiger Zeilen Code. Es funktioniert mit jeder Website oder Webanwendung.",
+		"list": [
+			"Funktioniert mit React, Vue, Angular und reinem HTML",
+			"Anpassbare Farben passend zu Ihrer Marke",
+			"Sicher und leichtgewichtig",
+			"Mobil responsiv sofort einsatzbereit"
+		],
+		"cta": "Holen Sie sich Ihren API-Schlüssel"
+	},
+	"footer": {
+		"description": "Stärkung des Kundensupports mit KI-gestützter Intelligenz. Intelligente Antworten, glückliche Kunden.",
+		"product": "Produkt",
+		"company": "Unternehmen",
+		"legal": "Rechtliches",
+		"links": {
+			"features": "Funktionen",
+			"integration": "Integration",
+			"pricing": "Preise",
+			"changelog": "Änderungsprotokoll",
+			"about": "Über uns",
+			"blog": "Blog",
+			"careers": "Karriere",
+			"contact": "Kontakt",
+			"privacy": "Datenschutzrichtlinie",
+			"terms": "Nutzungsbedingungen",
+			"cookie": "Cookie-Richtlinie"
+		},
+		"copyright": "Alle Rechte vorbehalten."
+	}
+}

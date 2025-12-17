@@ -1,0 +1,114 @@
+{
+	"navbar": {
+		"features": "Features",
+		"howItWorks": "How it Works",
+		"integration": "Integration",
+		"login": "Log in",
+		"getStarted": "Get Started"
+	},
+	"hero": {
+		"badge": "Next-Gen Support Engine",
+		"title_start": "Support that",
+		"title_highlight": "Feels Like Magic",
+		"description": "Empower your team with an AI that learns, adapts, and resolves. Turn every support interaction into a moment of delight.",
+		"cta_primary": "Start Free Trial",
+		"cta_secondary": "View Demo"
+	},
+	"features": {
+		"header_title_start": "Everything you need,",
+		"header_title_highlight": "Nothing you don't.",
+		"header_desc": "We've stripped away the complexity to focus on what truly matters: solving your customers' problems faster.",
+		"ai": {
+			"title": "AI-Powered Responses",
+			"description": "Instantly answer 80% of customer queries without human intervention.",
+			"details": [
+				"Semantic search across your knowledge base",
+				"Natural language understanding",
+				"Seamless escalation to human agents",
+				"Multi-language support out of the box"
+			]
+		},
+		"login": {
+			"title": "Customer Identity",
+			"description": "Secure, isolated environments for each of your customers.",
+			"details": ["Single Sign-On (SSO) integration", "Persistent chat history per user", "Secure data isolation", "Custom user attributes & metadata"]
+		},
+		"backoffice": {
+			"title": "Admin Dashboard",
+			"description": "A powerful command center to manage your support operations.",
+			"details": ["Real-time analytics & reporting", "Agent performance metrics", "Conversation tagging & filtering", "Customizable widget settings"]
+		}
+	},
+	"backoffice": {
+		"badge": "Powerful Control Panel",
+		"title": "Complete Control Over Your Support Ecosystem",
+		"description": "Give your customers the power to manage their own support experience. Our comprehensive backoffice allows for full customization, analytics, and team management.",
+		"items": {
+			"customization": {
+				"title": "Widget Customization",
+				"description": "Customize colors, position, and behavior to match any brand identity."
+			},
+			"analytics": {
+				"title": "Advanced Analytics",
+				"description": "Track response times, AI resolution rates, and customer satisfaction scores."
+			},
+			"team": {
+				"title": "Team Management",
+				"description": "Manage agent roles, permissions, and view individual performance metrics."
+			}
+		}
+	},
+	"howItWorks": {
+		"title": "How it works",
+		"description": "A seamless flow from question to resolution.",
+		"steps": [
+			{
+				"title": "User Asks a Question",
+				"description": "Your customer types a question into the chat widget on your site."
+			},
+			{
+				"title": "AI Searches Knowledge Base",
+				"description": "Our AI instantly analyzes the intent and looks for a matching answer in your FAQs."
+			},
+			{
+				"title": "Instant Answer or Escalation",
+				"description": "If found, the answer is delivered immediately. If not, a human agent is notified."
+			},
+			{
+				"title": "Knowledge Loop",
+				"description": "Agents answer new questions, and with one click, add them to the FAQ for next time."
+			}
+		]
+	},
+	"integration": {
+		"title": "Ready in minutes, not days",
+		"description": "Implementing our widget is as simple as copying and pasting a few lines of code. It works with any website or web application.",
+		"list": [
+			"Works with React, Vue, Angular, and plain HTML",
+			"Customizable colors to match your brand",
+			"Secure and lightweight",
+			"Mobile responsive out of the box"
+		],
+		"cta": "Get Your API Key"
+	},
+	"footer": {
+		"description": "Empowering customer support with AI-driven intelligence. Smart answers, happy customers.",
+		"product": "Product",
+		"company": "Company",
+		"legal": "Legal",
+		"links": {
+			"features": "Features",
+			"integration": "Integration",
+			"pricing": "Pricing",
+			"changelog": "Changelog",
+			"about": "About",
+			"blog": "Blog",
+			"careers": "Careers",
+			"contact": "Contact",
+			"privacy": "Privacy Policy",
+			"terms": "Terms of Service",
+			"cookie": "Cookie Policy"
+		},
+		"copyright": "All rights reserved."
+	}
+}

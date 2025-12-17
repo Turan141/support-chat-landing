@@ -1,0 +1,119 @@
+{
+	"navbar": {
+		"features": "Funkcijas",
+		"howItWorks": "Kā tas darbojas",
+		"integration": "Integrācija",
+		"login": "Pieteikties",
+		"getStarted": "Sākt"
+	},
+	"hero": {
+		"badge": "Nākamās paaudzes atbalsta dzinējs",
+		"title_start": "Atbalsts, kas",
+		"title_highlight": "Šķiet kā maģija",
+		"description": "Dodiet savai komandai iespēju izmantot AI, kas mācās, pielāgojas un risina. Pārvērtiet katru atbalsta mijiedarbību par prieka brīdi.",
+		"cta_primary": "Sākt bezmaksas izmēģinājumu",
+		"cta_secondary": "Skatīt demo"
+	},
+	"features": {
+		"header_title_start": "Viss, kas jums nepieciešams,",
+		"header_title_highlight": "Nekas lieks.",
+		"header_desc": "Mēs esam atmetuši sarežģītību, lai koncentrētos uz to, kas patiešām ir svarīgi: ātrāku jūsu klientu problēmu risināšanu.",
+		"ai": {
+			"title": "AI darbinātas atbildes",
+			"description": "Nekavējoties atbildiet uz 80% klientu jautājumu bez cilvēka iejaukšanās.",
+			"details": [
+				"Semantiskā meklēšana jūsu zināšanu bāzē",
+				"Dabiskās valodas sapratne",
+				"Nevainojama eskalācija cilvēku aģentiem",
+				"Daudzvalodu atbalsts uzreiz"
+			]
+		},
+		"login": {
+			"title": "Klienta identitāte",
+			"description": "Drošas, izolētas vides katram jūsu klientam.",
+			"details": [
+				"Vienotās pierakstīšanās (SSO) integrācija",
+				"Pastāvīga tērzēšanas vēsture katram lietotājam",
+				"Droša datu izolācija",
+				"Pielāgoti lietotāja atribūti un metadati"
+			]
+		},
+		"backoffice": {
+			"title": "Administratora panelis",
+			"description": "Spēcīgs vadības centrs, lai pārvaldītu jūsu atbalsta operācijas.",
+			"details": ["Reāllaika analītika un atskaites", "Aģentu veiktspējas rādītāji", "Sarunu marķēšana un filtrēšana", "Pielāgojami logrīka iestatījumi"]
+		}
+	},
+	"backoffice": {
+		"badge": "Spēcīgs vadības panelis",
+		"title": "Pilnīga kontrole pār jūsu atbalsta ekosistēmu",
+		"description": "Dodiet saviem klientiem iespēju pārvaldīt savu atbalsta pieredzi. Mūsu visaptverošais 'backoffice' ļauj pilnībā pielāgot, analizēt un pārvaldīt komandu.",
+		"items": {
+			"customization": {
+				"title": "Logrīka pielāgošana",
+				"description": "Pielāgojiet krāsas, pozīciju un uzvedību, lai tā atbilstu jebkurai zīmola identitātei."
+			},
+			"analytics": {
+				"title": "Uzlabotā analītika",
+				"description": "Izsekojiet atbildes laikus, AI risinājumu rādītājus un klientu apmierinātības rādītājus."
+			},
+			"team": {
+				"title": "Komandas pārvaldība",
+				"description": "Pārvaldiet aģentu lomas, atļaujas un skatiet individuālos veiktspējas rādītājus."
+			}
+		}
+	},
+	"howItWorks": {
+		"title": "Kā tas darbojas",
+		"description": "Nevainojama plūsma no jautājuma līdz risinājumam.",
+		"steps": [
+			{
+				"title": "Lietotājs uzdod jautājumu",
+				"description": "Jūsu klients ieraksta jautājumu tērzēšanas logrīkā jūsu vietnē."
+			},
+			{
+				"title": "AI meklē zināšanu bāzē",
+				"description": "Mūsu AI nekavējoties analizē nolūku un meklē atbilstošu atbildi jūsu BUJ."
+			},
+			{
+				"title": "Tūlītēja atbilde vai eskalācija",
+				"description": "Ja atrasta, atbilde tiek sniegta nekavējoties. Ja nē, tiek paziņots cilvēku aģentam."
+			},
+			{
+				"title": "Zināšanu cikls",
+				"description": "Aģenti atbild uz jauniem jautājumiem un ar vienu klikšķi pievieno tos BUJ nākamajai reizei."
+			}
+		]
+	},
+	"integration": {
+		"title": "Gatavs minūtēs, nevis dienās",
+		"description": "Mūsu logrīka ieviešana ir tikpat vienkārša kā dažu koda rindiņu kopēšana un ielīmēšana. Tas darbojas ar jebkuru vietni vai tīmekļa lietotni.",
+		"list": [
+			"Darbojas ar React, Vue, Angular un vienkāršu HTML",
+			"Pielāgojamas krāsas, lai atbilstu jūsu zīmolam",
+			"Drošs un viegls",
+			"Pielāgots mobilajām ierīcēm uzreiz"
+		],
+		"cta": "Iegūt API atslēgu"
+	},
+	"footer": {
+		"description": "Klientu atbalsta uzlabošana ar AI darbinātu inteliģenci. Gudras atbildes, laimīgi klienti.",
+		"product": "Produkts",
+		"company": "Uzņēmums",
+		"legal": "Juridiskā informācija",
+		"links": {
+			"features": "Funkcijas",
+			"integration": "Integrācija",
+			"pricing": "Cenas",
+			"changelog": "Izmaiņu žurnāls",
+			"about": "Par mums",
+			"blog": "Blogs",
+			"careers": "Karjera",
+			"contact": "Kontakti",
+			"privacy": "Privātuma politika",
+			"terms": "Pakalpojuma noteikumi",
+			"cookie": "Sīkdatņu politika"
+		},
+		"copyright": "Visas tiesības aizsargātas."
+	}
+}

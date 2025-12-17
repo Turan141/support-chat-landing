@@ -1,0 +1,124 @@
+{
+	"navbar": {
+		"features": "Características",
+		"howItWorks": "Cómo funciona",
+		"integration": "Integración",
+		"login": "Iniciar sesión",
+		"getStarted": "Empezar"
+	},
+	"hero": {
+		"badge": "Motor de Soporte de Nueva Generación",
+		"title_start": "Soporte que",
+		"title_highlight": "Se Siente Como Magia",
+		"description": "Empodera a tu equipo con una IA que aprende, se adapta y resuelve. Convierte cada interacción de soporte en un momento de deleite.",
+		"cta_primary": "Prueba Gratuita",
+		"cta_secondary": "Ver Demo"
+	},
+	"features": {
+		"header_title_start": "Todo lo que necesitas,",
+		"header_title_highlight": "Nada que no necesites.",
+		"header_desc": "Hemos eliminado la complejidad para centrarnos en lo que realmente importa: resolver los problemas de tus clientes más rápido.",
+		"ai": {
+			"title": "Respuestas Impulsadas por IA",
+			"description": "Responde instantáneamente al 80% de las consultas de los clientes sin intervención humana.",
+			"details": [
+				"Búsqueda semántica en tu base de conocimientos",
+				"Comprensión del lenguaje natural",
+				"Escalado fluido a agentes humanos",
+				"Soporte multilingüe listo para usar"
+			]
+		},
+		"login": {
+			"title": "Identidad del Cliente",
+			"description": "Entornos seguros y aislados para cada uno de tus clientes.",
+			"details": [
+				"Integración de inicio de sesión único (SSO)",
+				"Historial de chat persistente por usuario",
+				"Aislamiento seguro de datos",
+				"Atributos y metadatos de usuario personalizados"
+			]
+		},
+		"backoffice": {
+			"title": "Panel de Administración",
+			"description": "Un potente centro de comando para gestionar tus operaciones de soporte.",
+			"details": [
+				"Análisis e informes en tiempo real",
+				"Métricas de rendimiento de agentes",
+				"Etiquetado y filtrado de conversaciones",
+				"Configuración de widget personalizable"
+			]
+		}
+	},
+	"backoffice": {
+		"badge": "Panel de Control Potente",
+		"title": "Control Completo Sobre Tu Ecosistema de Soporte",
+		"description": "Dale a tus clientes el poder de gestionar su propia experiencia de soporte. Nuestro backoffice completo permite una personalización total, análisis y gestión de equipos.",
+		"items": {
+			"customization": {
+				"title": "Personalización del Widget",
+				"description": "Personaliza colores, posición y comportamiento para que coincida con cualquier identidad de marca."
+			},
+			"analytics": {
+				"title": "Análisis Avanzados",
+				"description": "Rastrea tiempos de respuesta, tasas de resolución de IA y puntuaciones de satisfacción del cliente."
+			},
+			"team": {
+				"title": "Gestión de Equipos",
+				"description": "Gestiona roles de agentes, permisos y ve métricas de rendimiento individuales."
+			}
+		}
+	},
+	"howItWorks": {
+		"title": "Cómo funciona",
+		"description": "Un flujo fluido desde la pregunta hasta la resolución.",
+		"steps": [
+			{
+				"title": "El Usuario Pregunta",
+				"description": "Tu cliente escribe una pregunta en el widget de chat en tu sitio."
+			},
+			{
+				"title": "La IA Busca en la Base de Conocimientos",
+				"description": "Nuestra IA analiza instantáneamente la intención y busca una respuesta coincidente en tus preguntas frecuentes."
+			},
+			{
+				"title": "Respuesta Instantánea o Escalado",
+				"description": "Si se encuentra, la respuesta se entrega inmediatamente. Si no, se notifica a un agente humano."
+			},
+			{
+				"title": "Ciclo de Conocimiento",
+				"description": "Los agentes responden nuevas preguntas y, con un clic, las agregan a las preguntas frecuentes para la próxima vez."
+			}
+		]
+	},
+	"integration": {
+		"title": "Listo en minutos, no días",
+		"description": "Implementar nuestro widget es tan simple como copiar y pegar unas pocas líneas de código. Funciona con cualquier sitio web o aplicación web.",
+		"list": [
+			"Funciona con React, Vue, Angular y HTML plano",
+			"Colores personalizables para combinar con tu marca",
+			"Seguro y ligero",
+			"Adaptable a móviles listo para usar"
+		],
+		"cta": "Obtén Tu Clave API"
+	},
+	"footer": {
+		"description": "Empoderando el soporte al cliente con inteligencia impulsada por IA. Respuestas inteligentes, clientes felices.",
+		"product": "Producto",
+		"company": "Empresa",
+		"legal": "Legal",
+		"links": {
+			"features": "Características",
+			"integration": "Integración",
+			"pricing": "Precios",
+			"changelog": "Registro de cambios",
+			"about": "Acerca de",
+			"blog": "Blog",
+			"careers": "Carreras",
+			"contact": "Contacto",
+			"privacy": "Política de Privacidad",
+			"terms": "Términos de Servicio",
+			"cookie": "Política de Cookies"
+		},
+		"copyright": "Todos los derechos reservados."
+	}
+}
