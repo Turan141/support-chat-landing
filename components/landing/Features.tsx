@@ -200,7 +200,7 @@ export function Features() {
 
 					{/* Right Side: Visual Preview */}
 					<div className="lg:col-span-7 sticky top-32">
-						<div className="relative aspect-square md:aspect-[4/3] lg:h-[650px] bg-white rounded-[2.5rem] overflow-hidden border border-slate-200 shadow-2xl shadow-slate-200/50">
+						<div className="relative aspect-square md:aspect-[4/3] bg-white rounded-[2.5rem] overflow-hidden border border-slate-200 shadow-2xl shadow-slate-200/50">
 							<AnimatePresence mode="wait">
 								<motion.div
 									key={activeFeature}

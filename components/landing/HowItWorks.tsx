@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { MessageCircle, Search, UserCheck, PlusCircle, ArrowRight } from "lucide-react";
+import { MessageCircle, Search, UserCheck, PlusCircle } from "lucide-react";
 import { useLanguage } from "@/components/providers/LanguageProvider";
 
 export function HowItWorks() {

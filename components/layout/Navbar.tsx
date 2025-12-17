@@ -25,14 +25,14 @@ export function Navbar() {
 				"fixed top-0 w-full z-50 transition-all duration-300",
 				scrolled ? "bg-white/80 backdrop-blur-md border-b border-slate-200 py-4" : "bg-transparent py-6"
 			)}>
-			<div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			<div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8">
 				<div className="flex justify-between items-center">
 					<div className="flex items-center">
-						<Link href="/" className="flex items-center gap-2 group">
-							<div className="bg-blue-600 p-2 rounded-xl group-hover:bg-blue-700 transition-colors">
-								<MessageSquare className="h-6 w-6 text-white" />
+						<Link href="/" className="flex items-center gap-1.5 md:gap-2 group">
+							<div className="bg-blue-600 p-1.5 md:p-2 rounded-xl group-hover:bg-blue-700 transition-colors">
+								<MessageSquare className="h-5 w-5 md:h-6 md:w-6 text-white" />
 							</div>
-							<span className="font-bold text-xl text-slate-900 tracking-tight">SupportAI</span>
+							<span className="font-bold text-lg md:text-xl text-slate-900 tracking-tight">SupportAI</span>
 						</Link>
 					</div>
 
@@ -48,14 +48,14 @@ export function Navbar() {
 						</Link>
 					</div>
 
-					<div className="flex items-center gap-4">
+					<div className="flex items-center gap-2 md:gap-4">
 						<LanguageSwitcher />
 						<Link href="/login" className="hidden sm:block text-sm font-medium text-slate-600 hover:text-slate-900">
 							{dictionary.navbar.login}
 						</Link>
 						<Link
 							href="/signup"
-							className="bg-slate-900 hover:bg-slate-800 text-white px-5 py-2.5 rounded-xl text-sm font-medium transition-all hover:shadow-lg hover:shadow-slate-900/20">
+							className="bg-slate-900 hover:bg-slate-800 text-white px-3 py-2 md:px-5 md:py-2.5 rounded-xl text-xs md:text-sm font-medium transition-all hover:shadow-lg hover:shadow-slate-900/20 whitespace-nowrap">
 							{dictionary.navbar.getStarted}
 						</Link>
 					</div>

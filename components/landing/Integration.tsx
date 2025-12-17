@@ -10,8 +10,8 @@ export function Integration() {
 	return (
 		<section id="integration" className="py-32 bg-gradient-to-br from-blue-600 to-indigo-700 text-white relative overflow-hidden">
 			{/* Decorative Circles */}
-			<div className="absolute top-0 right-0 w-[800px] h-[800px] bg-white/5 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2 pointer-events-none"></div>
-			<div className="absolute bottom-0 left-0 w-[600px] h-[600px] bg-black/10 rounded-full blur-3xl translate-y-1/2 -translate-x-1/2 pointer-events-none"></div>
+			<div className="absolute top-0 right-0 w-full max-w-[800px] h-[800px] bg-white/5 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2 pointer-events-none"></div>
+			<div className="absolute bottom-0 left-0 w-full max-w-[600px] h-[600px] bg-black/10 rounded-full blur-3xl translate-y-1/2 -translate-x-1/2 pointer-events-none"></div>
 
 			<div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
 				<div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
@@ -41,18 +41,19 @@ export function Integration() {
 						whileInView={{ opacity: 1, x: 0 }}
 						viewport={{ once: true }}
 						transition={{ duration: 0.5 }}
-						className="bg-white/10 backdrop-blur-md rounded-3xl p-8 border border-white/20 shadow-2xl font-mono text-sm overflow-hidden">
-						<div className="flex gap-2 mb-6">
+						className="bg-white/10 backdrop-blur-md rounded-3xl p-6 md:p-8 border border-white/20 shadow-2xl font-mono text-sm overflow-x-auto">
+						<div className="flex gap-2 mb-6 min-w-max">
 							<div className="w-3 h-3 rounded-full bg-red-400"></div>
 							<div className="w-3 h-3 rounded-full bg-yellow-400"></div>
 							<div className="w-3 h-3 rounded-full bg-green-400"></div>
 						</div>
-						<div className="space-y-4 py-2 opacity-90">
+						<div className="space-y-4 py-2 opacity-90 min-w-max">
 							<div className="flex gap-3">
 								<span className="text-blue-300">import</span>
 								<span className="text-white">{"{ SupportAI }"}</span>
 								<span className="text-blue-300">from</span>
-								<span className="text-green-300">'@support-ai/sdk'</span>;
+								<span className="text-green-300">&#39;@support-ai/sdk&#39;</span>
+								<span className="text-white">;</span>
 							</div>
 							<div className="h-4"></div>
 							<div className="flex gap-3">
@@ -64,7 +65,7 @@ export function Integration() {
 							</div>
 							<div className="h-4"></div>
 							<div className="flex gap-3">
-								<span className="text-slate-400">// Initialize the widget</span>
+								<span className="text-slate-400">{"// Initialize the widget"}</span>
 							</div>
 							<div className="flex gap-3">
 								<span className="text-white">widget</span>
@@ -74,14 +75,14 @@ export function Integration() {
 							</div>
 							<div className="h-4"></div>
 							<div className="flex gap-3">
-								<span className="text-slate-400">// Listen for events</span>
+								<span className="text-slate-400">{"// Listen for events"}</span>
 							</div>
 							<div className="flex gap-3">
 								<span className="text-white">widget</span>
 								<span className="text-blue-300">.</span>
 								<span className="text-yellow-300">on</span>
 								<span className="text-white">
-									('message', (msg) {"=>"} {"{"}
+									(&#39;message&#39;, (msg) {"=>"} {"{"}
 								</span>
 							</div>
 							<div className="flex gap-3 pl-8">
